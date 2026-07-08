@@ -1,18 +1,18 @@
-# 🌾 India's Agricultural Crop Production Analysis
+# 🌾 India's Agricultural Crop Production Analysis (1997–2021)
 
 ## 📖 Overview
 
 India's Agricultural Crop Production Analysis is a Business Intelligence and Data Visualization project developed using **Tableau**. The project analyzes historical agricultural crop production data from **1997 to 2021** to identify production trends, seasonal variations, regional performance, and crop-wise insights.
 
-The project transforms raw agricultural data into interactive dashboards and stories, enabling users to explore complex agricultural information through intuitive visualizations. By providing meaningful insights, the project supports data-driven decision-making for farmers, policymakers, researchers, and agribusiness investors.
+The project transforms raw agricultural data into interactive dashboards and Tableau Stories, enabling users to explore agricultural information through intuitive visualizations and support data-driven decision-making.
 
 ---
 
 ## 🎯 Problem Statement
 
-India produces a vast amount of agricultural data every year, but analyzing this information using traditional methods is difficult and time-consuming. Farmers often struggle to select suitable crops due to changing climatic conditions and limited historical insights. Government agencies require accurate production analysis to formulate effective agricultural policies, while agribusiness investors need reliable historical data to identify profitable investment opportunities.
+India generates a large volume of agricultural production data every year. Analyzing this information manually is time-consuming and makes it difficult to identify production trends, seasonal patterns, and regional performance.
 
-This project addresses these challenges by transforming historical agricultural crop production data into interactive Tableau dashboards and stories, making agricultural information easier to understand and analyze.
+This project addresses these challenges by transforming historical agricultural crop production data into interactive Tableau dashboards and stories, making agricultural information easier to analyze and understand.
 
 ---
 
@@ -20,73 +20,38 @@ This project addresses these challenges by transforming historical agricultural 
 
 ### 🌱 Scenario 1: Small-Scale Farmer
 
-**Rajesh**, a small-scale farmer from Uttar Pradesh, wants to maximize his crop yield and income. However, he faces difficulties in deciding which crops to cultivate due to changing weather conditions and market demand.
-
-Using this dashboard, Rajesh can:
+A farmer can use the dashboard to:
 
 - Analyze historical crop production trends.
 - Compare seasonal crop performance.
 - Identify high-performing crops.
-- Make informed farming decisions and reduce production risks.
+- Make informed cultivation decisions and reduce production risks.
 
 ---
 
 ### 🏛 Scenario 2: Government Policy Analyst
 
-**Ananya**, a policy analyst at the Ministry of Agriculture, is responsible for improving agricultural productivity across India. She needs to identify low-performing regions, evaluate seasonal variations, and understand long-term production trends.
-
-Using this dashboard, Ananya can:
+A government policy analyst can use the dashboard to:
 
 - Analyze state-wise agricultural performance.
-- Identify regions requiring policy intervention.
+- Identify low-performing regions.
 - Evaluate long-term production trends.
-- Support data-driven policy planning and resource allocation.
+- Support data-driven agricultural planning.
 
 ---
 
 ### 💼 Scenario 3: Agribusiness Investor
 
-**Vikram** is an agribusiness investor looking to invest in high-growth agricultural sectors. He wants to identify profitable crops, emerging production trends, and regions with consistent agricultural growth.
-
-Using this dashboard, Vikram can:
+An agribusiness investor can use the dashboard to:
 
 - Compare crop production trends.
 - Identify high-growth agricultural regions.
 - Analyze historical production patterns.
-- Make informed investment decisions while minimizing risk.
+- Make informed investment decisions.
 
 ---
 
-## ✅ Problem Solved
-
-This project provides an interactive Tableau-based analytics solution that simplifies the analysis of India's agricultural crop production data. Instead of manually analyzing large datasets, users can explore agricultural insights through interactive dashboards, KPI cards, charts, maps, and Tableau Stories.
-
-The solution enables users to:
-
-- Analyze crop production by state, crop, season, and year.
-- Identify production trends and regional performance.
-- Compare seasonal agricultural output.
-- Monitor year-over-year production changes.
-- Support data-driven decision-making for agriculture.
-
-By converting raw agricultural data into meaningful visualizations, the project improves accessibility, understanding, and decision-making for various stakeholders.
-
----
-
-## 🛠️ Technologies Used
-
-- Tableau Public
-- Microsoft Excel
-- HTML5
-- CSS3
-- Bootstrap 5
-- JavaScript
-- GitHub
-- Vercel
-
----
-
-## 📊 Features
+## 📊 Dashboard Features
 
 - Interactive Tableau Dashboard
 - Tableau Story
@@ -96,25 +61,84 @@ By converting raw agricultural data into meaningful visualizations, the project 
 - Season-wise Analysis
 - Year-wise Production Trends
 - Interactive Filters
-- Responsive Web Interface
 
 ---
 
-## 🚀 Live Demo
+## 🛠️ Technologies Used
 
-**Project Website:**  
-https://india-agrivision.vercel.app/
+- Tableau Public
+- Microsoft Excel
 
 ---
 
-## 📈 Tableau Public
+## 📂 Dataset
 
-- Dashboard:
-- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/81e1234d-1311-4fac-bfbc-5e244a011cdf" />
+**Dataset:** India's Agricultural Crop Production (1997–2021)
 
-- Story:
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f0776b62-c96f-4869-8b7f-0719579fcf07" />
+The dataset contains historical agricultural production data across different states, crops, seasons, and years.
 
+---
 
+## 📷 Dashboard Preview
 
+### 📊 Dashboard
 
+![Dashboard](Images/Dashboard.png)
+
+### 📖 Tableau Story
+
+![Story](Images/Story.png)
+
+---
+
+## 🌐 Tableau Public
+
+**Dashboard:** *(https://public.tableau.com/shared/3MMM3HWBJ?:display_count=n&:origin=viz_share_link)*
+
+**Story:** *(https://public.tableau.com/views/ComprehensiveAnalysisofAgriculturalProductionofIndia1997-2021/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
+
+---
+
+## 📑 Project Report
+
+The complete project documentation is available in the **Report** folder.
+
+---
+
+## 👩‍💻 My Contributions
+
+- Designed and developed the **Tableau Dashboard**.
+- Created the **Tableau Story** for data storytelling.
+- Published the project on **Tableau Public**.
+- Prepared the complete **Project Report** with project documentation and insights.
+
+---
+
+## 📈 Key Insights
+
+- Identified the highest agricultural producing states across India.
+- Compared crop production across different seasons.
+- Analyzed year-wise production trends from **1997–2021**.
+- Evaluated crop-wise production performance.
+- Identified regional agricultural growth patterns using interactive dashboards.
+- Enabled stakeholders to make data-driven decisions through visual analytics.
+
+---
+
+## 📁 Repository Structure
+
+```text
+India-Agricultural-Crop-Production-Analysis
+│
+├── Dataset
+├── Images
+├── Report
+├── Tableau
+└── README.md
+```
+
+---
+
+## 📜 License
+
+This project is created for educational and portfolio purposes.
