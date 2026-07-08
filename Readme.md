@@ -85,10 +85,6 @@ The dataset contains historical agricultural production data across different st
 
 ![Dashboard](Images/Dashboard.png)
 
-### 📖 Tableau Story
-
-![Story](Images/Story.png)
-
 ---
 
 ## 🌐 Tableau Public
